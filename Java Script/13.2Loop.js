@@ -3,4 +3,8 @@ while (num <5) {
     console.log(num);
     num++;
 }
-// video 5 complete 
+
+var nums = [12,19,22,18,15,29,10];
+for (var i=0 ; i<nums.length ; i++) {
+    console.log(nums[i]);
+}
